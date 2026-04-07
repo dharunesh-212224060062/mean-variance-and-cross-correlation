@@ -1,4 +1,4 @@
-EXPT.NO.5	SIMULATION OF MEAN AND VARIANCE USING SCILAB
+EXPT.NO.6	SIMULATION OF MEAN AND VARIANCE USING SCILAB
 AIM:
 To write a program for mean, variance and cross correlation in SCILAB and verify the output.
 
