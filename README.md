@@ -56,5 +56,10 @@ Mean of Y =	0.4166667
 ii)	Variance of X	 -0.0069444
 Variance of Y	-0.0069444
 
+RESULT:
+
+Thus the mean , variance and cross correlation are executed in Scilab and output is verified.
+
+
 
 
